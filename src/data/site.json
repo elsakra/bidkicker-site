@@ -1,0 +1,75 @@
+{
+  "company": {
+    "name": "BidKicker",
+    "tagline": "Google Ads & Facebook Specialists",
+    "description": "PPC Industry Experts specializing in Google Ads and Facebook Pay-Per-Click management for small businesses and startups. We provide affordable pricing, no long-term contracts, and transparent PPC management services.",
+    "phone": "1-(800)-967-8996",
+    "email": null,
+    "address": null,
+    "hours": "9am-5pm EST"
+  },
+  "branding": {
+    "logo": "https://res.cloudinary.com/dil14r8je/image/upload/v1768941971/auto-site-builder/Bidkicker/image_0.png",
+    "primaryColor": "#1e40af",
+    "secondaryColor": null
+  },
+  "hero": {
+    "headline": "BidKicker Google Ads & Facebook Specialists",
+    "subheadline": "PPC Industry Experts - Unlike big ad agencies who do radio, TV, print, direct mail, etc., we do one thing and we do it well - Google Ads & Facebook Paid Search - Pay Per Click (PPC)",
+    "cta": {
+      "label": "Free Consultation",
+      "href": "/contact"
+    },
+    "secondaryCta": null,
+    "backgroundImage": "https://plus.unsplash.com/premium_photo-1661663373098-003886896551?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8cHJvZmVzc2lvbmFsJTIwd29ya3NwYWNlJTIwY2xlYW58ZW58MHwwfHx8MTc2ODg2NTI3MXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  "sections": {
+    "about": {
+      "headline": "About Us",
+      "content": "PPC Industry Experts - Unlike big ad agencies who do radio, TV, print, direct mail, etc., we do one thing and we do it well - Google Ads & Facebook Paid Search - Pay Per Click (PPC) - It's our entire ball game. We specialize in small businesses with affordable pricing, no long-term contracts, and complete transparency. All work is done within your accounts and belongs to you.",
+      "image": "https://plus.unsplash.com/premium_photo-1677529498680-fdb9d5ee762a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMjA3fDB8MXxzZWFyY2h8MXx8dGVhbSUyMGNvbGxhYm9yYXRpb24lMjBvZmZpY2V8ZW58MHwwfHx8MTc2ODg2OTU2N3ww&ixlib=rb-4.1.0&q=80&w=1080"
+    },
+    "services": {
+      "headline": "Our Services"
+    },
+    "team": {
+      "headline": "Our Team"
+    },
+    "testimonials": {
+      "headline": "What Our Clients Say"
+    },
+    "contact": {
+      "headline": "Contact Us"
+    }
+  },
+  "navigation": {
+    "items": [
+      {
+        "label": "About",
+        "href": "/about"
+      },
+      {
+        "label": "Contact",
+        "href": "/contact"
+      },
+      {
+        "label": "FAQ",
+        "href": "/faq"
+      }
+    ],
+    "ctaButton": {
+      "label": "Free Consultation",
+      "href": "/about"
+    }
+  },
+  "footer": {
+    "copyright": "© 2024 BidKicker. All rights reserved.",
+    "socialLinks": {
+      "facebook": null
+    }
+  },
+  "seo": {
+    "title": "Adwords Management",
+    "description": "Adwords Management, PPC Management and Facebook Marketing experts."
+  }
+}
